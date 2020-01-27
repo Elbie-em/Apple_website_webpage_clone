@@ -15,7 +15,7 @@ body {
 nav {
   position: relative;
   top: 50px;
-  width: 80%;
+  width: 1100px;
   height: 40px;
   border-radius: 5px;
   background: linear-gradient(180deg, #5f635f, lightgray, #5f635f);
@@ -29,19 +29,23 @@ nav ul li {
 
 .nav_li {
   text-align: center;
-  width: 110px;
+  width: 100px;
   color: white;
   font-weight: 400;
   font-size: 20px;
   border-right: 1px solid grey;
   padding: 8px;
 }
- 
+
+nav li:hover {
+  cursor: pointer;
+}
+
 .nav_search {
   border-radius: 10px;
   background: lightgray url(assets/search.png) left no-repeat;
   padding-left: 15px;
-  width: 170px ;
+  width: 150px ;
   height: 22px;
   color: white;
   margin-left: 3px;
@@ -60,7 +64,7 @@ nav ul li {
 
 .main_content_section_a {
   position: relative;
-  top: 400px;
+  top: 300px;
 }
 
 .main_heading {
@@ -86,33 +90,34 @@ nav ul li {
 .thumbnail {
   height: auto;
   width: 25vw;
+  cursor: pointer;
 }
 
 footer {
   width: 100vw;
   background-color: #fff;
   height: 70px;
-  font-size: 11px;
+  font-size: 13px;
 }
 
 .footer_left {
   float: left;
   margin-top: 10px;
   margin-bottom: 10px;
-  margin-left: 60px;
+  margin-left: 10px;
 }
 
 .footer_right {
   float: right;
   margin-top: 10px;
   margin-bottom: 10px;
-  margin-right: 60px;
+  margin-right: 10px;
 }
 
 .footer_extra {
   clear: left;
   text-align: left;
-  margin-left: 60px;
+  margin-left: 10px;
 }
 
 footer a {
