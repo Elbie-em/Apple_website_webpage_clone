@@ -82,19 +82,19 @@ nav li:hover {
 
 .main_content_b {
   display: grid;
-  grid-template-columns: 25vw 25vw 25vw 25vw;
+  grid-template-columns: 25% 25% 25% 25%;
   height: auto;
   margin: 2px;
 }
 
 .thumbnail {
   height: auto;
-  width: 25vw;
+  width: 100%;
   cursor: pointer;
 }
 
 footer {
-  width: 100vw;
+  width: 100%;
   background-color: #fff;
   height: 70px;
   font-size: 13px;
