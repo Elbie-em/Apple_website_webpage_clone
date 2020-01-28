@@ -111,7 +111,7 @@ nav li:hover {
 .main_content_b {
   display: grid;
   grid-template-columns: 25vw 25vw 25vw 25vw;
-  height: auto px;
+  height: auto;
   margin: 2px;
 }
 
