@@ -11,8 +11,8 @@ body {
 nav {
   position: relative;
   top: 100px;
-  width: 90vw;
-  height: 46.5px;
+  width: 87vw;
+  height: 40px;
   border-radius: 5px;
   background: linear-gradient(180deg, #5f635f, lightgray, #5f635f);
   margin-left: auto;
