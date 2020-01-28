@@ -4,10 +4,6 @@
   font-family: Helvetica, sans-serif;
 }
 
-a:hover {
-  cursor: pointer;
-}
-
 body {
   text-align: center;
 }
@@ -151,6 +147,10 @@ footer {
 footer a {
   text-decoration: none;
   color: #1f8ecf;
+}
+
+a:hover {
+  cursor: pointer;
 }
 
 @media (max-width: 850px) {
