@@ -25,12 +25,12 @@ nav ul li {
 
 .nav_li {
   text-align: center;
-  width: 130px;
+  width: 100px;
   color: white;
   font-weight: 400;
-  font-size: 19px;
+  font-size: 16px;
   border-right: 1px solid grey;
-  padding: 12px;
+  padding: 10px;
 }
 
 nav li:hover {
@@ -46,34 +46,6 @@ nav li:hover {
   color: white;
   margin-left: 3px;
   margin-bottom: 10px;
-}
-
-@media (max-width: 800px) {
-  .nav_li {
-    width: 100px;
-    font-size: 15px;
-    padding: 5px;
-  }
-
-  nav {
-    text-align: left;
-    width: 85vw;
-    height: 30px;
-  }
-}
-
-@media (max-width: 1200px) {
-  .nav_li {
-    width: 100px;
-    font-size: 18px;
-    padding: 6px;
-  }
-
-  nav {
-    text-align: left;
-    width: 80vw;
-    height: 40px;
-  }
 }
 
 .main_content {
