@@ -15,7 +15,7 @@ body {
 nav {
   position: relative;
   top: 50px;
-  width: 1100px;
+  width: 80vw;
   height: 40px;
   border-radius: 5px;
   background: linear-gradient(180deg, #5f635f, lightgray, #5f635f);
@@ -52,11 +52,31 @@ nav li:hover {
   margin-bottom: 10px;
 }
 
+@media (max-width: 800px){
+  .nav_li {
+    width: 60px;
+    font-size: 15px;
+    padding: 5px;
+  }
+
+  nav {
+    text-align: left;
+    width: 90vw;
+    height: 30px;
+  }
+
+  .nav_search {
+    width: 80px;
+  }
+
+
+}
+
 .main_content {
   background-image: url(assets/main.jpg);
   background-repeat: no-repeat;
   background-size: 100vw 940px;
-  width: 100%;
+  width: 100vw;
   height: 940px;
   text-align: center;
   color: #fff;
@@ -125,7 +145,18 @@ footer a {
   color: #1f8ecf;
 }
 
+@media (max-width: 850px){
+  footer {
+    font-size: 11px;
+  }
+}
+
 .location_icon {
   width: 14px;
   height: auto;
+}
+
+.apple_icon {
+  position: relative;
+  right: 20px;
 }
