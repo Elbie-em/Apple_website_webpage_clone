@@ -13,6 +13,7 @@
 
 ## Live Demo
 
+[Click here](https://rawcdn.githack.com/Elbie-em/Apple_website_webpage_clone/5815afc379411f9336567090302fa070df9a2051/index.html) for live demo
 
 
 ## Getting Started
@@ -25,9 +26,9 @@
 
 👤 **Elbie Moonga**
 
-- GitHub: [@Elbie-Em] (https://github.com/Elbie-em)
-- Twitter: [ElbieEm] (https://twitter.com/ElbieEm)
-- LinkedIn: [elbie-moonga] (https://www.linkedin.com/in/elbie-moonga-253bbb12b/)
+- GitHub: [@Elbie-Em](https://github.com/Elbie-em)
+- Twitter: [ElbieEm](https://twitter.com/ElbieEm)
+- LinkedIn: [elbie-moonga](https://www.linkedin.com/in/elbie-moonga-253bbb12b/)
 
 
 ## 🤝 Contributing
