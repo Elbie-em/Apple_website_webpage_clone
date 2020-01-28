@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Click here](https://rawcdn.githack.com/Elbie-em/Apple_website_webpage_clone/5815afc379411f9336567090302fa070df9a2051/index.html) for live demo
+[Click here](https://rawcdn.githack.com/Elbie-em/Apple_website_webpage_clone/6354d1483f2552ded000dcaea79aaa4c28fe4eb4/index.html) for live demo
 
 
 ## Getting Started
