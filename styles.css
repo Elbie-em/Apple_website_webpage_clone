@@ -15,7 +15,7 @@ body {
 nav {
   position: relative;
   top: 50px;
-  width: 80vw;
+  width: 77vw;
   height: 40px;
   border-radius: 5px;
   background: linear-gradient(180deg, #5f635f, lightgray, #5f635f);
@@ -29,10 +29,10 @@ nav ul li {
 
 .nav_li {
   text-align: center;
-  width: 100px;
+  width: 90px;
   color: white;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 18px;
   border-right: 1px solid grey;
   padding: 8px;
 }
@@ -45,14 +45,14 @@ nav li:hover {
   border-radius: 10px;
   background: lightgray url(assets/search.png) left no-repeat;
   padding-left: 15px;
-  width: 150px ;
+  width: 120px;
   height: 22px;
   color: white;
   margin-left: 3px;
   margin-bottom: 10px;
 }
 
-@media (max-width: 800px){
+@media (max-width: 800px) {
   .nav_li {
     width: 60px;
     font-size: 15px;
@@ -68,8 +68,6 @@ nav li:hover {
   .nav_search {
     width: 80px;
   }
-
-
 }
 
 .main_content {
@@ -145,7 +143,7 @@ footer a {
   color: #1f8ecf;
 }
 
-@media (max-width: 850px){
+@media (max-width: 850px) {
   footer {
     font-size: 11px;
   }
