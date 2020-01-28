@@ -15,7 +15,7 @@ body {
 nav {
   position: relative;
   top: 50px;
-  width: 80vw;
+  width: 85vw;
   height: 40px;
   border-radius: 5px;
   background: linear-gradient(180deg, #5f635f, lightgray, #5f635f);
