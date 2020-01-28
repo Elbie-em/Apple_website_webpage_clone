@@ -10,9 +10,9 @@ body {
 
 nav {
   position: relative;
-  top: 50px;
-  width: 85vw;
-  height: 40px;
+  top: 100px;
+  width: 90vw;
+  height: 46.5px;
   border-radius: 5px;
   background: linear-gradient(180deg, #5f635f, lightgray, #5f635f);
   margin-left: auto;
@@ -25,12 +25,12 @@ nav ul li {
 
 .nav_li {
   text-align: center;
-  width: 100px;
+  width: 130px;
   color: white;
   font-weight: 400;
   font-size: 19px;
   border-right: 1px solid grey;
-  padding: 8px;
+  padding: 12px;
 }
 
 nav li:hover {
@@ -50,21 +50,21 @@ nav li:hover {
 
 @media (max-width: 800px) {
   .nav_li {
-    width: 25%;
+    width: 100px;
     font-size: 15px;
     padding: 5px;
   }
 
   nav {
     text-align: left;
-    width: 90vw;
+    width: 85vw;
     height: 30px;
   }
 }
 
 @media (max-width: 1200px) {
   .nav_li {
-    width: 75px;
+    width: 100px;
     font-size: 18px;
     padding: 6px;
   }
@@ -88,16 +88,20 @@ nav li:hover {
 
 .main_content_section_a {
   position: relative;
-  top: 300px;
+  top: 200px;
 }
 
-.main_heading {
-  font-size: 43px;
+.main_heading_a {
+  font-size: 73px;
+}
+
+.main_heading_b {
+  font-size: 50px;
   font-weight: lighter;
 }
 
 .sub_heading {
-  font-size: 23px;
+  font-size: 36px;
 }
 
 .main_content p:hover {
