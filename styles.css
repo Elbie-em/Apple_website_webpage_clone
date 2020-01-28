@@ -11,7 +11,7 @@ body {
 nav {
   position: relative;
   top: 100px;
-  width: 87vw;
+  width: 87%;
   height: 40px;
   border-radius: 5px;
   background: linear-gradient(180deg, #5f635f, lightgray, #5f635f);
@@ -51,8 +51,8 @@ nav li:hover {
 .main_content {
   background-image: url(assets/main.jpg);
   background-repeat: no-repeat;
-  background-size: 100vw 940px;
-  width: 100vw;
+  background-size: 100% 940px;
+  width: 100%;
   height: 940px;
   text-align: center;
   color: #fff;
@@ -61,19 +61,21 @@ nav li:hover {
 .main_content_section_a {
   position: relative;
   top: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .main_heading_a {
-  font-size: 73px;
+  font-size: 69px;
 }
 
 .main_heading_b {
-  font-size: 50px;
+  font-size: 42px;
   font-weight: lighter;
 }
 
 .sub_heading {
-  font-size: 36px;
+  font-size: 34px;
 }
 
 .main_content p:hover {
